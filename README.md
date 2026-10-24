@@ -22,19 +22,19 @@ Course Information: This course provides a systematic introduction to the core i
 
 ## Course Material
 
-| Date | Notes and Homework | Homework Solutions |
-|------|-------|----------|
-| 9/12 | [N1](Notes/N1.pdf) | [HW1](Homework/HW1.pdf) |
-| 9/19 | [N2](Notes/N2.pdf) | [HW2](Homework/HW2.pdf) |
-| 9/26 | [N3](Notes/N3.pdf) | [HW3](Homework/HW3.pdf) |
-| 10/3 | [N4](Notes/N4.pdf) | [HW4](Homework/HW4.pdf) |
-| 10/10 | [N5](Notes/N5.pdf) | [HW5](Homework/HW5.pdf) |
-| 10/17 | [N6](Notes/N6.pdf) | [HW6](Homework/HW6.pdf) |
-| 10/24 | [N7](Notes/N7.pdf) | TBD |
-| 10/31 | N8 | TBD |
-| 11/7 | N9 | TBD |
-| 11/14 | N10 | TBD |
-| 11/21 | N11 | TBD |
-| 11/28 | N12 | TBD |
-| 12/5 | N13 | TBD |
-| 12/12 | N14 | TBD |
+| Date | Topic | Notes and Homework | Homework Solutions |
+|------|-------|-------|----------|
+| 9/12 | Coordinates, Lines, and Circles | [N1](Notes/N1.pdf) | [HW1](Homework/HW1.pdf) |
+| 9/19 | Functions, Graphs, and Transformations | [N2](Notes/N2.pdf) | [HW2](Homework/HW2.pdf) |
+| 9/26 | Exponential Functions | [N3](Notes/N3.pdf) | [HW3](Homework/HW3.pdf) |
+| 10/3 | Inverse and Logarithmic Functions | [N4](Notes/N4.pdf) | [HW4](Homework/HW4.pdf) |
+| 10/10 | Angles and Trigonometric Functions | [N5](Notes/N5.pdf) | [HW5](Homework/HW5.pdf) |
+| 10/17 | Trigonometric Functions and Their Properties | [N6](Notes/N6.pdf) | [HW6](Homework/HW6.pdf) |
+| 10/24 | Trigonometric Transformations, Equations, and Identities | [N7](Notes/N7.pdf) | TBD |
+| 10/31 | TBD | N8 | TBD |
+| 11/7 | TBD | N9 | TBD |
+| 11/14 | TBD | N10 | TBD |
+| 11/21 | TBD | N11 | TBD |
+| 11/28 | TBD | N12 | TBD |
+| 12/5 | TBD | N13 | TBD |
+| 12/12 | TBD | N14 | TBD |
