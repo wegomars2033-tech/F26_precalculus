@@ -30,7 +30,7 @@ Course Information: This course provides a systematic introduction to the core i
 | 10/3 | Inverse and Logarithmic Functions | [N4](Notes/N4.pdf) | [HW4](Homework/HW4.pdf) |
 | 10/10 | Angles and Trigonometric Functions | [N5](Notes/N5.pdf) | [HW5](Homework/HW5.pdf) |
 | 10/17 | Trigonometric Functions and Their Properties | [N6](Notes/N6.pdf) | [HW6](Homework/HW6.pdf) |
-| 10/24 | Trigonometric Transformations, Equations, and Identities | [N7](Notes/N7.pdf) | TBD |
+| 10/24 | Trigonometric Transformations, Equations, and Identities | [N7](Notes/N7.pdf) | [HW7](Homework/HW7.pdf) |
 | 10/31 | TBD | N8 | TBD |
 | 11/7 | TBD | N9 | TBD |
 | 11/14 | TBD | N10 | TBD |
